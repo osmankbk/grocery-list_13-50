@@ -1,1 +1,3 @@
-# grocery-list_13-50
+# grocery-list-project
+Small grocery list project
+
